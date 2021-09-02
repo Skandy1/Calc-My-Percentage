@@ -1,0 +1,12 @@
+{
+	"manifest_version":2,
+	"name":"Calc My Percentage",
+	"description": "Conver CGPA to % with one click!",
+	"version":"1.0.0",
+	"icons":{"128":"SKANDA 2.png"},
+	"browser_action":{
+		"default_icon":"SKANDA 1.png",
+		"default_popup":"main.html"
+	},
+	"permissions":["activeTab"]
+}
