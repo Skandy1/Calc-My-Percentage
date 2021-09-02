@@ -11,6 +11,7 @@ Unfortunately, I won't be uploading this extension to the chrome web store as I 
 1. Download or clone this repository to your local directory.📁
 2. Go to [chrome://extensions/](chrome://extensions/) in your browser.🌍
 3. Turn on developer mode ☠
+
    ![Developer Mode](images/t1.gif)
 4. Select **Load Unpacked** on the top left corner and select the folder that you just extracted in step 1.👇
    ![Unpacking](images/t2.gif)
